@@ -1,7 +1,9 @@
-# AI_Gomoku AI五子棋 UCAS国科大
-中国科学院大学UCAS 2023年秋季公共选修课《C++程序设计》杨立祥 期末大作业-五子棋
+# AI_Gomoku
 
 按要求头文件拆分比较多，修改功能方便。
 
 AI效果一般，然则符合要求。仅供参考学习。
+
+![1721373915383](https://github.com/user-attachments/assets/a95857f8-2047-4340-bc1a-78e2f8c460fa)
+
 
